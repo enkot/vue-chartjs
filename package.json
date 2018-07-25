@@ -1,7 +1,7 @@
 {
-  "name": "vue-chartjs",
-  "version": "3.3.2",
-  "description": "Vue.js wrapper for chart.js for creating beautiful charts.",
+  "name": "vue-chartjs-typescript",
+  "version": "3.3.3",
+  "description": "Fork from vue-chartjs with typescript definitions",
   "author": "Jakub Juszczak <jakub@posteo.de>",
   "homepage": "http://vue-chartjs.org",
   "license": "MIT",

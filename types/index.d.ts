@@ -1,6 +1,6 @@
 import { BaseChart } from './components'
 
-declare module 'vue-chartjs' {
+declare module 'vue-chartjs-typescript' {
   export function generateChart(chartId: string, chartType: string): any;
   export class Bar extends BaseChart {}
   export class HorizontalBar extends BaseChart {}
